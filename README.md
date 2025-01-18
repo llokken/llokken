@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌐 I’m currently in the GIT Internet and Web Development Program.
+- 🌐 I’m currently in the GIT - Internet and Web Development Program.
 - 󠁛📜 Prior to ASU, I got dual Associates degrees in Software Development and Mobile Application Development.
-- 💬 Interests: Web Dev, Homebrewing, Video Games, 
+- 💬 Interests: Web Dev, Homebrewing, Video Games
 - 🤷‍♂️ Pronouns: He/Him/His
 - 🌮 Fun fact: I love tacos.
 
